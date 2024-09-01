@@ -1,5 +1,7 @@
 # Simulated-Annealing for CloudComp Scheduling
 
+This project is my submission for the course 42137 Optimization using Metaheuristics, taught by Thomas Jacob Riis Stidsen and Dario Pacino at DTU.
+
 This script implements a Simulated Annealing algorithm with Reheating for solving the CloudComp Scheduling problem. The goal is to minimize the total makespan of the batch, optimizing the assignment and scheduling of operations across processors.
 
 
